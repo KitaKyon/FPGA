@@ -1,0 +1,23 @@
+ NET "CLK_I" LOC = "B8" ;
+
+ NET "LED1_O" LOC = "M5" ; 
+ NET "LED2_O" LOC = "M11" ; 
+ NET "LED3_O" LOC = "P7" ; 
+ NET "LED4_O" LOC = "P6" ; 
+
+ NET "SW_RESET_I" LOC = "G12" ; 
+ NET "SW_START_I" LOC = "C11" ; 
+
+ NET "DPOEN_O<0>" LOC = "F12";
+ NET "DPOEN_O<1>" LOC = "J12"; 
+ NET "DPOEN_O<2>" LOC = "M13";
+ NET "DPOEN_O<3>" LOC = "K14";
+
+ NET "SEG_O<0>" LOC = "L14";
+ NET "SEG_O<1>" LOC = "H12";
+ NET "SEG_O<2>" LOC = "N14";
+ NET "SEG_O<3>" LOC = "N11";
+ NET "SEG_O<4>" LOC = "P12";
+ NET "SEG_O<5>" LOC = "L13";
+ NET "SEG_O<6>" LOC = "M12";
+ NET "SEG_O<7>" LOC = "N13";
